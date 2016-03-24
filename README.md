@@ -1,3 +1,3 @@
 # RoverOnMars
 
-Simple java project (on the mars!)
+Simple java project (on mars!)
